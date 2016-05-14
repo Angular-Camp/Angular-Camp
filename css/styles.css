@@ -114,7 +114,7 @@ p.updates {
 
 #blocks a {
 	color: #FFF;
-	border-bottom: 1px dotted green;
+	border-bottom: 1px dotted #fff;
 }
 
 
@@ -124,6 +124,18 @@ h4 a {
   font: bold 1.25rem "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 
 }
+
+#register p,
+#register a {
+	color: #FFF;
+	font-size: .85rem;
+}
+
+#register a {
+	border-bottom: 1px dotted #fff;	
+}
+
+
 
 /* BLOCKS - Newsletter */
 
